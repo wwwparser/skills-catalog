@@ -1,0 +1,8 @@
+.local/
+artifacts/
+__pycache__/
+.env
+ask_design.py
+export_inventory.py
+build.py
+descriptions.json
